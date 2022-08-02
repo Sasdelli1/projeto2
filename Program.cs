@@ -8,7 +8,7 @@ namespace projeto
         {
 
             int NumeroChamada = 0;
-            String Nome_Aluno = "Gabriel Ferreira Sasdelli ";
+            String Nome_Aluno = "Gabriel Ferreira Sasdelli a11";
 
             NumeroChamada = 1;
             Console.WriteLine(NumeroChamada);
